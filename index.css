@@ -1,3 +1,9 @@
 .hightlight {
 background-color: yellow;
+text-align: center;
+}
+#container {
+  border: 2px solid black;
+  text-align: center;
+  background-color: aqua;
 }
